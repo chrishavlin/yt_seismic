@@ -6,6 +6,8 @@ Type             : Notebook
 Title            : 3D volume rendering of geophysical data using the yt platform
 Author(s)        : Havlin, Christopher; Holtzman, Benjamin; Kowalik, Kacper; Munk, Madicken; Walkow, Sam; Turk, Matthew
 
-# instructions 
+# instructions
 
-To load the notebook: 
+To load the notebook, open a browser and visit
+
+https://mybinder.org/v2/gh/chrishavlin/yt_seismic/master?filepath=Notebook_3DseismicVis.ipynb
