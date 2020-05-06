@@ -1,7 +1,4 @@
 yt
 geopandas
-numpy
 netCDF4
-h5py
 scipy
-matplotlib
